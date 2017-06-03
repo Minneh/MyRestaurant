@@ -1,4 +1,7 @@
-package com.example.minnehmugo.myrestaurant;
+package com.example.minnehmugo.myrestaurant.services;
+
+import com.example.minnehmugo.myrestaurant.Constants;
+import com.example.minnehmugo.myrestaurant.models.Restaurant;
 
 import org.json.JSONArray;
 import org.json.JSONException;

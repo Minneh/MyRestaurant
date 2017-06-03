@@ -4,6 +4,8 @@ package com.example.minnehmugo.myrestaurant;
 import android.os.Build;
 import android.widget.ListView;
 
+import com.example.minnehmugo.myrestaurant.ui.RestaurantsActivity;
+
 import org.junit.Before;
 import org.junit.Test;
 import org.junit.runner.RunWith;

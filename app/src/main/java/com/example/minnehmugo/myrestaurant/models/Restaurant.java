@@ -1,4 +1,4 @@
-package com.example.minnehmugo.myrestaurant;
+package com.example.minnehmugo.myrestaurant.models;
 
 import java.util.ArrayList;
 

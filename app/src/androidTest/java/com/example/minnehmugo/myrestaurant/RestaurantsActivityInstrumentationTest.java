@@ -3,6 +3,8 @@ package com.example.minnehmugo.myrestaurant;
 import android.support.test.rule.ActivityTestRule;
 import android.view.View;
 
+import com.example.minnehmugo.myrestaurant.ui.RestaurantsActivity;
+
 import org.junit.Rule;
 import org.junit.Test;
 

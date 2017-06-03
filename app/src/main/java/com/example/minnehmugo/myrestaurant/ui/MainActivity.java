@@ -1,4 +1,4 @@
-package com.example.minnehmugo.myrestaurant;
+package com.example.minnehmugo.myrestaurant.ui;
 
 import android.content.Intent;
 import android.graphics.Typeface;
@@ -8,6 +8,8 @@ import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
 import android.widget.TextView;
+
+import com.example.minnehmugo.myrestaurant.R;
 
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener{
